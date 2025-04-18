@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: acadalearning/java-web-app
+      - image: lisaeileen/java-web-app
         name: javawebapp
         ports:
         - name: javawebapp
